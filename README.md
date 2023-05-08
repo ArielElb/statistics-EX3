@@ -21,6 +21,11 @@ Download the Tomato.csv file containing the data on tomato prices.
 Open the tomato_price_histogram.py file in a Python IDE or text editor.
 
 Run the script.
+## Results:
+1. 6 -![image](https://user-images.githubusercontent.com/94087682/236954864-8f356e1a-b76b-4448-9f52-4e3dd63ef289.png)
+2. 12 -![image](https://user-images.githubusercontent.com/94087682/236954904-c551173d-70c2-4882-bfb4-de8cba662996.png)
+3. 15 -![image](https://user-images.githubusercontent.com/94087682/236954941-8a1d8984-2132-4219-b19e-be5e47d70050.png)
+4. 20 - ![image](https://user-images.githubusercontent.com/94087682/236955036-b5364633-6260-4a05-a7d4-e71b6e0c1c67.png)
 
 The script will create a histogram showing the distribution of average tomato prices across a range of years and months.
 
